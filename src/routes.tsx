@@ -1,7 +1,7 @@
 import {BrowserRouter as Router, Routes, Route} from 'react-router-dom';
-import { Home } from './Home';
-import { NotFound } from './NotFound';
-import { TYP } from './TYP';
+import { Home } from './pages/Home';
+import { NotFound } from './pages/NotFound';
+import { TYP } from './pages/TYP';
 
 export default function RoutesList () {
   return (

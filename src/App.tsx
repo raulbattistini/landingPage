@@ -1,4 +1,3 @@
-import { Home } from "./Home";
 import RoutesList from "./routes";
 
 function App() {
